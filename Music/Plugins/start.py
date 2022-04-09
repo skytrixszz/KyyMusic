@@ -44,10 +44,7 @@ def start_pannel():
         ],
         [
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ​ 📚", url="https://telegra.ph/ҡʏʏ-ᴍᴇᴍ-ᴇx-01-21-2"),
-        ],
-        [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/muhammadrizky16/KyyMusic"),
-        ],
+        ],  
     ]
     return (
         "",
@@ -67,10 +64,7 @@ pstart_markup = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("📚 ᴄᴏᴍᴍᴀɴᴅ ​📚", url="https://telegra.ph/ҡʏʏ-ᴍᴇᴍ-ᴇx-01-21-2"),
-        ],
-        [
-            InlineKeyboardButton("🌐 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🌐", url="https://github.com/muhammadrizky16/KyyMusic"),
-        ],
+  
     ]
 )
 welcome_captcha_group = 2
